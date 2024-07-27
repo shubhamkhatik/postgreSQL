@@ -1,0 +1,1 @@
+databasestring ='postgresql://tempdatabase_owner:randompasswordfield@ep-bold-lab-a1scnsew.ap-southeast-1.aws.neon.tech/tempdatabase?sslmode=require',
